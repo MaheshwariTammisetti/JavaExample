@@ -6,7 +6,7 @@ public class MyStringTest {
 		String greeting = "Hello, World!";
 	    	System.out.println("Greeting : " +greeting);
 	    	System.out.println("Length : " +greeting.length());
-
+	    	System.out.println("JAVA");
 	}
 
 }
